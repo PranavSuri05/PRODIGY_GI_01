@@ -1,4 +1,4 @@
-# Task_01
+# Project_01
 This project focuses on fine-tuning the pre-trained GPT-2 model from OpenAI to improve its text generation capabilities using a custom dataset. The goal is to adapt the model to produce more relevant and context-specific text based on the input data provided.
 
 The project involves the following key steps:
